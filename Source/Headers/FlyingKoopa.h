@@ -13,7 +13,7 @@ private:
 
     float disappearDelay = 0.0f;
     float reloadTimer = 0.0f;
-	const float reloadFire = 5.0f;
+	const float reloadFire = 30.0f;
 
     std::unordered_map<std::string, sf::IntRect> spritesSheet;
 
